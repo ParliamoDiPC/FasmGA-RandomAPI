@@ -1,8 +1,8 @@
 [tool.poetry]
-name = "repl_python3_randomapifasmga"
+name = "fasmga_randomapis"
 version = "0.1.0"
-description = ""
-authors = ["Your Name <you@example.com>"]
+description = "Fasm.ga Random APIs"
+authors = ["Fasm.ga Developers <developers@fasm.ga>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
